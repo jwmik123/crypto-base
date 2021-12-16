@@ -40,8 +40,8 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            CryptoBase <br />
-            BUGG. All rights reserved
+            &copy; CryptoBase by BUGG. <br />
+            All rights reserved
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>

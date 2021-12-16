@@ -287,7 +287,22 @@ a:hover {
 }
 
 .select-news {
-  width: 180px;
+  width: 220px;
+}
+
+.select-option img {
+  width: 1rem;
+  aspect-ratio: 1;
+  margin-right: 0.5rem;
+}
+
+.select-change {
+  float: right;
+  color: red;
+  font-size: 0.7rem;
+}
+.select-change--positive {
+  color: green;
 }
 .news-card {
   min-height: 300px !important;
